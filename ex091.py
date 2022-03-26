@@ -21,3 +21,5 @@ print(ranking)
 
 for i, v in enumerate(ranking):
     print(f"{i+1}º Lugar: {v[0]} com {v[1]} pontos.")
+
+#teste de merge
