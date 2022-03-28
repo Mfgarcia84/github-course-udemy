@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-#test branch testing
-=======
 #91 Jogo de Dados em Python
 from multiprocessing.sharedctypes import Value
 from random import randint
@@ -28,4 +25,4 @@ for i, v in enumerate(ranking):
 #teste de merge
 #teste push github
 #
->>>>>>> main
+
