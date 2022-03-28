@@ -13,4 +13,4 @@ aluno['situação'] = situacao
 print("-="*40)
 for k, v in aluno.items():
     print(f"{k} é igual a {v}")
-
+#teste de push 
