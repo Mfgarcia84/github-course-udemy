@@ -24,3 +24,4 @@ for i, v in enumerate(ranking):
 
 #teste de merge
 #teste push github
+#
